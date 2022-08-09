@@ -10,4 +10,4 @@ I'm a Software Engineer, frontend developer. I'm passionate about sharing knowle
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing folarintaiye@gmail.com 
-| ------------- | ------------- |
+
